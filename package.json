@@ -10,9 +10,11 @@
     },
     "author": "",
     "license": "ISC",
-    "devDependencies": {
+    "dependencies": {
         "angular": "^1.6.7",
-        "angular-ui-router": "^0.4.3",
+        "angular-ui-router": "^0.4.3"
+    },
+    "devDependencies": {
         "babel-cli": "^6.26.0",
         "babel-loader": "^7.1.2",
         "babel-preset-env": "^1.6.1",
